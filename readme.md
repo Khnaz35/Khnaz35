@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-<a href="https://twitter.com/your-twitter" target="_blank">
+<a href="https://twitter.com/khnaz35" target="_blank">
 <img src="assets/badges/twitter.svg" alt="twitter" />
 </a>
 </div>
