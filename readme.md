@@ -11,11 +11,11 @@
 
 # <div align="center">Senior Linux Administrator & Full Stack Web Developer</div>
 
-### <div align="center">🌐 Delivering efficient, scalable, and secure solutions for over 15 years 🌐</div><br />
+### <div align="center">Delivering efficient, scalable, and secure solutions for over 15 years</div><br />
 
--   🌱 I’m currently expanding my expertise in **Terraform**, and **ERPNext** to build next-gen scalable infrastructure.
--   💻 My projects and repositories reflect my experience in **Linux administration**, **API development**, and **eCommerce solutions**.
--   ✉️ Reach me at [khnaz35@gmail.com](mailto:khnaz35@gmail.com).
+-   I’m currently expanding my expertise in **Terraform**, and **ERPNext** to build next-gen scalable infrastructure.
+-   My projects and repositories reflect my experience in **Linux administration**, **API development**, and **eCommerce solutions**.
+-   Reach me at [khnaz35@gmail.com](mailto:khnaz35@gmail.com).
 
 <br/>
 
