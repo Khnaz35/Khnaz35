@@ -26,8 +26,18 @@ Malaysia (UTC+8) - full coverage of Australian business hours, European mornings
 -   **Server triage** - load spikes, disk exhaustion, slow MySQL, mail landing in spam, broken SSL and DNS.
 -   **ERPNext deployment** - install and configure on VPS, SSL, automated backups, version upgrades.
 -   **Development** - Python/Django, PHP, REST API design and integration, OpenCart extensions.
+-   **Tracking that isn't tracking** - conversions not firing, GA4 and Ads disagreeing, consent mode silently dropping data, purchases counted twice. Diagnosed against the live site.
 
 I also work white-label for agencies that need a server person on call without carrying one on payroll.
+
+## Measurement and paid media
+
+-   **Server-side tagging** - sGTM on your infrastructure or mine, with consent mode, enhanced conversions and first-party data.
+-   **Google Ads** - account builds, Performance Max, Shopping feeds, and conversion actions that measure the thing you actually sell.
+-   **Meta Ads** - Conversions API with server-side deduplication, catalogue and lead campaigns.
+-   **Reporting** - Looker Studio dashboards fed from the same data the campaigns bid on.
+
+I run the full measurement stack for eCommerce brands, from the tag on the page to the dashboard the decisions come from.
 
 <br/>
 
